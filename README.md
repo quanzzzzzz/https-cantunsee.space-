@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # JUnit Practice – StudentAnalyzer
 
 ## Mô tả
@@ -13,3 +14,9 @@ Chương trình phân tích điểm học sinh:
 ## Cách chạy test
 Mở file `StudentAnalyzerTest.java`  
 Nhấn **Run Test**
+=======
+BÙI XUÂN QUÂN - BIT230490
+<img width="1919" height="1027" alt="image" src="https://github.com/user-attachments/assets/57b6f3ec-ac81-47ae-81ea-d25cd70caea8" />
+
+
+>>>>>>> 39e850a23476449eca2d1d391a3d1dc10f6033cc
