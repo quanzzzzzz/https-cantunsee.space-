@@ -1,6 +1,8 @@
 <<<<<<< HEAD
 # JUnit Practice – StudentAnalyzer
-
+# BT Các Chương Khác
+- Chương 3: https://github.com/quanzzzzzz/Cypress
+- CHương 4: https://github.com/quanzzzzzz/jmeter
 ## Mô tả
 Chương trình phân tích điểm học sinh:
 - Đếm số học sinh đạt loại Giỏi (>= 8.0)
